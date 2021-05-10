@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SWP
+namespace SWP_Uebung1_Singleton
 {
     // Static implementation
     public sealed class Print

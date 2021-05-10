@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Configuration;
 using System.IO;
-using static System.Console;
-namespace SWP
+
+namespace SWP_Uebung1_Singleton
 {
     sealed class LazyPrint
     {

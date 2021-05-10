@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace SWP
+﻿namespace SWP_Uebung1_Singleton
 {
     class Program
     {

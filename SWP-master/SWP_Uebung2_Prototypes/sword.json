@@ -1,0 +1,37 @@
+[
+  {
+    "name": "fire sword",
+    "damage": 10.0,
+    "defense": 5.0,
+    "magic": 25.0,
+    "price": 10.0
+  },
+  {
+    "name": "water sword",
+    "damage": 11.0,
+    "defense": 6.0,
+    "magic": 26.0,
+    "price": 10.0
+  },
+  {
+    "name": "ice sword",
+    "damage": 12.0,
+    "defense": 7.0,
+    "magic": 27.0,
+    "price": 10.0
+  },
+  {
+    "name": "thunder sword",
+    "damage": 13.0,
+    "defense": 8.0,
+    "magic": 28.0,
+    "price": 10.0
+  },
+  {
+    "name": "magic sword",
+    "damage": 14.0,
+    "defense": 9.0,
+    "magic": 29.0,
+    "price": 10.0
+  }
+]

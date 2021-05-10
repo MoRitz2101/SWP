@@ -1,0 +1,38 @@
+[
+  {
+    "name": "swamp monster",
+    "hitpoints": 10,
+    "speed": 5,
+    "fear": "people",
+    "type": 1,
+    "color": "green",
+    "attackpoints": 5 
+  },
+  {
+    "name": "fire monster",
+    "hitpoints": 22,
+    "speed": 5,
+    "fear": "water",
+    "type": 2,
+    "color": "red",
+    "attackpoints": 5
+  },
+  {
+    "name": "water monster",
+    "hitpoints": 20,
+    "speed": 5,
+    "fear": "plastic",
+    "type": 3,
+    "color": "blue",
+    "attackpoints": 5
+  },
+  {
+    "name": "ice monster",
+    "hitpoints": 15,
+    "speed": 5,
+    "fear": "fire",
+    "type": 4,
+    "color": "white",
+    "attackpoints": 5
+  }
+]
